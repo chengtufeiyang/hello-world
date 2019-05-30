@@ -1,0 +1,2 @@
+set trimspool on;, set echo off;, set feedback off;, set term off;, set heading off;, set linesize 10000;, set pagesize 50000;, set newpage none;, set sqlprompt SQL>;, set verify off;,spool E:\IdeaProjects\en-de\target\txtzhibiao201904.txt
+spool off;
